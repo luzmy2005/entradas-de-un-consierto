@@ -40,5 +40,5 @@ int main() {
         if (ubicacion);
         
         return 0; }      
- }  
+ }  // NO CORRE EL SWITCH TRABAJA CON UN CASE
  
